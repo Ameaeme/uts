@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "uts",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "21d78073-9857-4437-81b1-564f4429388e",
+			"database_name": "gudang"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
